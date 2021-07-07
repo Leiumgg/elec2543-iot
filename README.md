@@ -1,3 +1,3 @@
-# elec2543-iot
+# elec2840-iot
 
 2020-2021 Winter
