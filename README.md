@@ -1,3 +1,3 @@
-# elec2840-iot
+# HKU ELEC2840 IOT
 
 2020-2021 Winter
